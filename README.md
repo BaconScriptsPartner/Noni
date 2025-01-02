@@ -99,7 +99,7 @@ SubmitButton.MouseButton1Click:Connect(function()
     if KeySystem == "Quvdyrflwnb" then   
 screenGui:Destroy()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconScriptsPartner/Mew/refs/heads/main/README.md?token=GHSAT0AAAAAAC4UKQ4O7UN5AOXSYX35HIUOZ3WRMUQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconScriptsPartner/Yes/refs/heads/main/README.md"))()
   
   end
 end)
